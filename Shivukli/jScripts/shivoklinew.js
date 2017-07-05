@@ -1370,7 +1370,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/shivoklinew_atlas_.png?1499080957240", id:"shivoklinew_atlas_"}
+		{src:"images/shivoklinew_atlas_.png", id:"shivoklinew_atlas_"}
 	],
 	preloads: []
 };
