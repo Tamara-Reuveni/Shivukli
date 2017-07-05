@@ -484,7 +484,8 @@ table#usage th:nth-child(4){background-image:url("../Images/innerlinkedin.png")}
  }
  article#tips{
      height:480px;
-     padding:10px;
+     padding-right:160px;
+     background-color:white;
  }
 #send{
     border:none;
