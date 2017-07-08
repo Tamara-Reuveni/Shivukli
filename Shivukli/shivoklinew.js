@@ -179,7 +179,7 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer 1
-	this.text = new cjs.Text("טוויטר מתאים לאנשים שרוצים לפרסם את עצמם ואת דעותיהם באופן .בינלאומי נרחב", "11px 'Assistant SemiBold'");
+	this.text = new cjs.Text("טוויטר מתאים לאנשים שרוצים לפרסם את עצמם ואת דעותיהם באופן .בינלאומי נרחב", "11px 'Assistant 600'");
 	this.text.textAlign = "right";
 	this.text.lineHeight = 16;
 	this.text.lineWidth = 84;
@@ -199,7 +199,7 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer 1
-	this.text = new cjs.Text("אינסטגראם מתאימה לאוהבי עיצוב. הפרסום מכיל תמונות עיצוביות ,טקסטורות צבעים .ואפקטים", "11px 'Assistant SemiBold'");
+	this.text = new cjs.Text("אינסטגראם מתאימה לאוהבי עיצוב. הפרסום מכיל תמונות עיצוביות ,טקסטורות צבעים .ואפקטים", "11px 'Assistant 600'");
 	this.text.textAlign = "right";
 	this.text.lineHeight = 16;
 	this.text.lineWidth = 84;
@@ -219,7 +219,7 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer 1
-	this.text = new cjs.Text("לינקדאין מתאימה לכל מי שמחפש עבודה. הפרסום נעשה בצורה .מקצועית ורצינית", "11px 'Assistant SemiBold'");
+	this.text = new cjs.Text("לינקדאין מתאימה לכל מי שמחפש עבודה. הפרסום נעשה בצורה .מקצועית ורצינית", "11px 'Assistant 600'");
 	this.text.textAlign = "right";
 	this.text.lineHeight = 16;
 	this.text.lineWidth = 84;
@@ -239,7 +239,7 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer 1
-	this.text = new cjs.Text("פייסבוק מתאימה לרוב סוגי העסקים כאשר  הפרסום נעשה לפי פילוח שוק לפי .העדפת  קהל  היעד", "11px 'Assistant SemiBold'");
+	this.text = new cjs.Text("פייסבוק מתאימה לרוב סוגי העסקים כאשר  הפרסום נעשה לפי פילוח שוק לפי .העדפת  קהל  היעד", "11px 'Assistant 600'");
 	this.text.textAlign = "right";
 	this.text.lineHeight = 16;
 	this.text.lineWidth = 90;
@@ -307,7 +307,7 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// flash0.ai
-	this.text = new cjs.Text("תמונת הפרופיל צריכה לייצג בצורה הטובה ביותר את העסק שלכם. מידות התמונה צריכות להיות :180 .על 180 פיקסלים", "11px 'Assistant SemiBold'");
+	this.text = new cjs.Text("תמונת הפרופיל צריכה לייצג בצורה הטובה ביותר את העסק שלכם. מידות התמונה צריכות להיות :180 .על 180 פיקסלים", "11px 'Assistant 600'");
 	this.text.textAlign = "right";
 	this.text.lineHeight = 16;
 	this.text.lineWidth = 116;
@@ -488,7 +488,7 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// flash0.ai
-	this.text = new cjs.Text("תמונת הקאבר מוסיפה אווירה לעמוד שלכם . כדאי לבחור תמונה שמתאימה .לתמונת הפרופיל שלכם \nמידות התמונה צריכות להיות : 828 על .315 פיקסלים", "11px 'Assistant SemiBold'");
+	this.text = new cjs.Text("תמונת הקאבר מוסיפה אווירה לעמוד שלכם . כדאי לבחור תמונה שמתאימה .לתמונת הפרופיל שלכם \nמידות התמונה צריכות להיות : 828 על .315 פיקסלים", "11px 'Assistant 600'");
 	this.text.textAlign = "right";
 	this.text.lineHeight = 16;
 	this.text.lineWidth = 164;
@@ -596,7 +596,7 @@ p.nominalBounds = new cjs.Rectangle(-23.9,-34.8,304.8,113);
 	this.initialize(mode,startPosition,loop,{});
 
 	// flash0.ai
-	this.text = new cjs.Text("העלו פוסטים שיעניינו את קהל היעד שלכם: תמונות יפות, בדיחות, או טיפים .רלוונטיים בתחום העסק שלכם", "11px 'Assistant SemiBold'");
+	this.text = new cjs.Text("העלו פוסטים שיעניינו את קהל היעד שלכם: תמונות יפות, בדיחות, או טיפים .רלוונטיים בתחום העסק שלכם", "11px 'Assistant 600'");
 	this.text.textAlign = "right";
 	this.text.lineHeight = 16;
 	this.text.lineWidth = 161;
