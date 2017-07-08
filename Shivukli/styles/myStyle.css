@@ -92,8 +92,8 @@ float: right;
 #nav1 ul li a{
 display:block;
 color: white;
-font-family:Assistant semibold;
-
+font-family:Assistant,
+font-weight:600;
 width: 159px;
 height: 25.5PX;
 margin:5px 0px;
@@ -159,7 +159,8 @@ div#logo a{
     margin-right: 11px;
     color:#F7931E;
     font-size:26px;
-    font-family:Assistant ExtraBold;
+    font-family:Assistant;
+    font-weight:800;
     transform:rotate(-11deg);
     text-decoration:none;
 }
@@ -173,7 +174,8 @@ div#logo a{
 #tagline{
            margin:40px 160px 35px 0px;
             font-size:36px;
-            font-family:Assistant light;
+            font-family:Assistant;
+            font-weight:normal;
             color:#68311D;
      }
 #social{
@@ -271,11 +273,11 @@ section{
 }
 .box {
     height: 310PX;
-    width: 199PX;
+    width: 196PX;
     padding:20px;
     background-color: #f7f7f7;
     display:inline-block;
-    margin-left:38px;
+    margin-left:40px;
     border-radius:10PX;
     vertical-align:top;
     -webkit-box-shadow: 0 3px 0 0 #999999;
@@ -289,7 +291,7 @@ section{
     color:#2F4A5B;
     margin:30px 0px;
     font-family:Assistant;
-    font-weight:normal;
+    font-weight:lighter;
 }
 .box p{
     margin-bottom:50px;
