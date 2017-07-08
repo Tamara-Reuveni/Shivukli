@@ -271,11 +271,11 @@ section{
 }
 .box {
     height: 310PX;
-    width: 196PX;
+    width: 199PX;
     padding:20px;
     background-color: #f7f7f7;
     display:inline-block;
-    margin-left:40px;
+    margin-left:38px;
     border-radius:10PX;
     vertical-align:top;
     -webkit-box-shadow: 0 3px 0 0 #999999;
@@ -288,12 +288,14 @@ section{
     font-size:18px;
     color:#2F4A5B;
     margin:30px 0px;
-    font-family:Assistant Light;
+    font-family:Assistant;
+    font-weight:normal;
 }
 .box p{
     margin-bottom:50px;
     font-size:14px;
-    font-family:Assistant Light;
+    font-family:Assistant;
+    font-weight:lighter;
     line-height:30px;
 }
 #box2 p{
@@ -397,7 +399,8 @@ article h2{
   margin-left:0px; }
 
 .open p, table#usage{
-    font-family:Assistant light; 
+    font-family:Assistant; 
+    font-weight:lighter;
     width:450px;
     height:250px;
     margin-top:150px;
